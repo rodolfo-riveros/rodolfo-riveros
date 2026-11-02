@@ -1,23 +1,23 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0e7490,100:7c3aed&height=230&section=header&text=Rodolfo%20Riveros%20Mitma&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=56" width="100%" alt="Rodolfo Riveros Mitma" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:b91c1c,100:1d4ed8&height=230&section=header&text=Rodolfo%20Riveros%20Mitma&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=56" width="100%" alt="Rodolfo Riveros Mitma" />
 </p>
 
 <p align="center">
   <a href="https://portafolio-rodolfo.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Construyo+software+que+resuelve+problemas+reales;Django+%C2%B7+FastAPI+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Next.js;Apps+m%C3%B3viles+offline-first+con+React+Native+%2B+Expo;Integro+IA+(Claude+%C2%B7+Gemini)+en+productos+reales;Docente+en+el+IESP+La+Salle+%E2%80%94+Urubamba%2C+Cusco;Ingeniero+de+Sistemas+%E2%80%94+UNAJMA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=720&lines=Construyo+software+que+resuelve+problemas+reales;Django+%C2%B7+FastAPI+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Next.js;Apps+m%C3%B3viles+offline-first+con+React+Native+%2B+Expo;Integro+IA+(Claude+%C2%B7+Gemini)+en+productos+reales;Docente+en+el+IESP+La+Salle+%E2%80%94+Urubamba%2C+Cusco;Ingeniero+de+Sistemas+%E2%80%94+UNAJMA+%F0%9F%87%B5%F0%9F%87%AA;Tu+amigable+vecino+desarrollador+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0b1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portafolio" /></a>
+  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0b1220?style=for-the-badge&logo=vercel&logoColor=FF4D4D" alt="Portafolio" /></a>
   <a href="mailto:riveros70397516@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Correo" /></a>
   <a href="https://linkedin.com/in/rodolfo-riveros"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
   <a href="https://twitter.com/mitmariveros"><img src="https://img.shields.io/badge/X-0b1220?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://kaggle.com/rodolforiverosmitma"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" /></a>
   <a href="https://instagram.com/rodolforiverosmitma"><img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
   <a href="https://fb.com/rodolfo.riveros.9843"><img src="https://img.shields.io/badge/Facebook-0b1220?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rodolfo-riveros&label=VISITAS&color=0e7490&style=for-the-badge" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=rodolfo-riveros&label=VISITAS&color=b91c1c&style=for-the-badge" alt="Visitas" />
 </p>
 
 <br/>
@@ -27,9 +27,13 @@
   <img src="./assets/terminal.svg" width="860" alt="rodolfo@urubamba:~$ whoami" />
 </p>
 
+<p align="center">
+  <img src="./assets/spider-banner.svg" width="860" alt="Un gran poder conlleva una gran responsabilidad" />
+</p>
+
 <br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Sobre mí
+## 🕷️ Sobre mí
 
 <table>
 <tr>
@@ -103,6 +107,8 @@ lema:       "Si no se usa, no está terminado"
 
 <br/>
 
+<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="" /></p>
+
 ## 🏛️ Sistemas en producción
 
 <p align="center"><sub>Sistemas que usan a diario instituciones educativas de Cusco</sub></p>
@@ -159,7 +165,7 @@ Calificaciones y asistencia de los estudiantes del **IESP La Salle de Urubamba**
 
 <br/>
 
-## 🚀 Proyectos destacados
+## 🕸️ Proyectos destacados
 
 <table>
 <tr>
@@ -268,10 +274,12 @@ Portafolio con **terminal interactiva**, estadísticas de GitHub en vivo, efecto
 </table>
 
 <p align="center">
-  <a href="https://github.com/rodolfo-riveros?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_los_repositorios-0b1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Ver todos" /></a>
+  <a href="https://github.com/rodolfo-riveros?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_los_repositorios-0b1220?style=for-the-badge&logo=github&logoColor=FF4D4D" alt="Ver todos" /></a>
 </p>
 
 <br/>
+
+<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="" /></p>
 
 ## 💼 Experiencia
 
@@ -318,10 +326,12 @@ Vicepresidente del comité electoral de la E.P. de Ingeniería de Sistemas (2019
 </table>
 
 <p align="center">
-  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Ver_CV_completo-0b1220?style=for-the-badge&logo=readdotcv&logoColor=22D3EE" alt="Ver CV" /></a>
+  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Ver_CV_completo-0b1220?style=for-the-badge&logo=readdotcv&logoColor=FF4D4D" alt="Ver CV" /></a>
 </p>
 
 <br/>
+
+<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="" /></p>
 
 ## 📊 Estadísticas en GitHub
 
@@ -341,7 +351,7 @@ Vicepresidente del comité electoral de la E.P. de Ingeniería de Sistemas (2019
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rodolfo-riveros&hide_border=true&background=1a1b27&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&stroke=2a2e42&locale=es" alt="Racha" />
+  <img src="https://streak-stats.demolab.com?user=rodolfo-riveros&hide_border=true&background=1a1b27&ring=e23636&fire=3b82f6&currStreakLabel=ff4d4d&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&stroke=2a2e42&locale=es" alt="Racha" />
 </p>
 
 <!-- Serpiente: la genera .github/workflows/profile.yml en la rama "output" -->
@@ -355,16 +365,19 @@ Vicepresidente del comité electoral de la E.P. de Ingeniería de Sistemas (2019
 
 <br/>
 
+<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="" /></p>
+
 ## 🤝 Trabajemos juntos
 
 <p align="center">
+  <b>🕷️ ¿Tu proyecto necesita un héroe?</b><br/>
   Si buscas a alguien para construir un sistema web, una app móvil o integrar IA en tu producto, <b>escríbeme</b>.<br/>
   <sub>Lo que mejor sé hacer: llevar el proyecto desde los requerimientos hasta el despliegue.</sub>
 </p>
 
 <p align="center">
-  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Visita_mi_portafolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0b1220" alt="Portafolio" /></a>
+  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Visita_mi_portafolio-E23636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
 </p>
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:0b1220&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:b91c1c,100:0b1220&height=120&section=footer" width="100%" alt="" />

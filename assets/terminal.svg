@@ -5,9 +5,9 @@
       <stop offset="1" stop-color="#0d1a24"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/>
-      <stop offset=".5" stop-color="#22d3ee" stop-opacity=".08"/>
-      <stop offset="1" stop-color="#a78bfa" stop-opacity=".45"/>
+      <stop offset="0" stop-color="#e23636" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#e23636" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity=".6"/>
     </linearGradient>
     <clipPath id="c1"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="0.4s" dur="1.6s" fill="freeze"/></rect></clipPath>
     <clipPath id="c2"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="2.6s" dur="1.6s" fill="freeze"/></rect></clipPath>
@@ -15,7 +15,7 @@
     <clipPath id="c4"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="8.6s" dur="1.6s" fill="freeze"/></rect></clipPath>
     <style>
       .m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;font-size:15px}
-      .p{fill:#22d3ee}.h{fill:#a78bfa}.w{fill:#e2e8f0}.d{fill:#64748b}.k{fill:#f472b6}.g{fill:#4ade80}.y{fill:#facc15}
+      .p{fill:#ff4d4d}.h{fill:#60a5fa}.w{fill:#e2e8f0}.d{fill:#64748b}.k{fill:#f472b6}.g{fill:#4ade80}.y{fill:#facc15}
       .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#64748b}
     </style>
   </defs>
@@ -27,7 +27,7 @@
   <circle cx="26" cy="21" r="6.5" fill="#ff5f57"/>
   <circle cx="48" cy="21" r="6.5" fill="#febc2e"/>
   <circle cx="70" cy="21" r="6.5" fill="#28c840"/>
-  <text x="430" y="26" text-anchor="middle" class="t">rodolfo@urubamba: ~ — zsh</text>
+  <text x="430" y="26" text-anchor="middle" class="t">rodolfo@urubamba: ~ — spider-sense: ON 🕷</text>
 
   <!-- 1: whoami -->
   <g clip-path="url(#c1)">

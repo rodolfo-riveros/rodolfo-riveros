@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230" role="img" aria-label="Un gran poder conlleva una gran responsabilidad">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0a0a"/><stop offset=".55" stop-color="#0b1220"/><stop offset="1" stop-color="#0a1a3f"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff5252"/><stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="860" height="230" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="860" height="230" fill="url(#bg)"/>
+    <path d="M0 0L200.0 0.0M0 0L193.2 51.8M0 0L173.2 100.0M0 0L141.4 141.4M0 0L100.0 173.2M0 0L51.8 193.2M0 0L0.0 200.0M31.3 0.0Q26.6 3.5 30.2 8.1M30.2 8.1Q24.8 10.3 27.1 15.6M27.1 15.6Q21.3 16.4 22.1 22.1M22.1 22.1Q16.4 21.3 15.6 27.1M15.6 27.1Q10.3 24.8 8.1 30.2M8.1 30.2Q3.5 26.6 0.0 31.3M62.5 0.0Q53.3 7.0 60.4 16.2M60.4 16.2Q49.7 20.6 54.1 31.2M54.1 31.2Q42.6 32.7 44.2 44.2M44.2 44.2Q32.7 42.6 31.3 54.1M31.3 54.1Q20.6 49.7 16.2 60.4M16.2 60.4Q7.0 53.3 0.0 62.5M93.8 0.0Q79.9 10.5 90.6 24.3M90.6 24.3Q74.5 30.9 81.2 46.9M81.2 46.9Q64.0 49.1 66.3 66.3M66.3 66.3Q49.1 64.0 46.9 81.2M46.9 81.2Q30.9 74.5 24.3 90.6M24.3 90.6Q10.5 79.9 0.0 93.8M125.0 0.0Q106.6 14.0 120.7 32.4M120.7 32.4Q99.3 41.1 108.3 62.5M108.3 62.5Q85.3 65.4 88.4 88.4M88.4 88.4Q65.4 85.3 62.5 108.3M62.5 108.3Q41.1 99.3 32.4 120.7M32.4 120.7Q14.0 106.6 0.0 125.0M156.3 0.0Q133.2 17.5 150.9 40.4M150.9 40.4Q124.1 51.4 135.3 78.1M135.3 78.1Q106.6 81.8 110.5 110.5M110.5 110.5Q81.8 106.6 78.1 135.3M78.1 135.3Q51.4 124.1 40.4 150.9M40.4 150.9Q17.5 133.2 0.0 156.3M187.5 0.0Q159.9 21.0 181.1 48.5M181.1 48.5Q149.0 61.7 162.4 93.7M162.4 93.7Q127.9 98.2 132.6 132.6M132.6 132.6Q98.2 127.9 93.8 162.4M93.8 162.4Q61.7 149.0 48.5 181.1M48.5 181.1Q21.0 159.9 0.0 187.5" fill="none" stroke="#ffffff" stroke-width="1.1" stroke-opacity="0.18"/>
+    <path d="M860 230L690.0 230.0M860 230L695.8 186.0M860 230L712.8 145.0M860 230L739.8 109.8M860 230L775.0 82.8M860 230L816.0 65.8M860 230L860.0 60.0M828.5 230.0Q833.2 226.5 829.6 221.9M829.6 221.9Q835.0 219.6 832.7 214.3M832.7 214.3Q838.5 213.5 837.7 207.7M837.7 207.7Q843.5 208.5 844.3 202.7M844.3 202.7Q849.6 205.0 851.9 199.6M851.9 199.6Q856.5 203.2 860.0 198.5M797.0 230.0Q806.3 222.9 799.2 213.7M799.2 213.7Q810.0 209.3 805.5 198.5M805.5 198.5Q817.0 197.0 815.5 185.5M815.5 185.5Q827.0 187.0 828.5 175.5M828.5 175.5Q839.3 180.0 843.7 169.2M843.7 169.2Q852.9 176.3 860.0 167.0M765.6 230.0Q779.5 219.4 768.8 205.6M768.8 205.6Q785.0 198.9 778.2 182.8M778.2 182.8Q795.6 180.6 793.2 163.2M793.2 163.2Q810.6 165.6 812.8 148.2M812.8 148.2Q828.9 155.0 835.6 138.8M835.6 138.8Q849.4 149.5 860.0 135.6M734.1 230.0Q752.6 215.9 738.4 197.4M738.4 197.4Q759.9 188.6 750.9 167.0M750.9 167.0Q774.1 164.1 771.0 141.0M771.0 141.0Q794.1 144.1 797.0 120.9M797.0 120.9Q818.6 129.9 827.4 108.4M827.4 108.4Q845.9 122.6 860.0 104.1M702.6 230.0Q725.8 212.3 708.0 189.3M708.0 189.3Q734.9 178.2 723.7 151.3M723.7 151.3Q752.6 147.6 748.7 118.7M748.7 118.7Q777.6 122.6 781.3 93.7M781.3 93.7Q808.2 104.9 819.3 78.0M819.3 78.0Q842.3 95.8 860.0 72.6" fill="none" stroke="#ffffff" stroke-width="1.1" stroke-opacity="0.12"/>
+    <path d="M860 0L770.0 0.0M860 0L776.9 34.4M860 0L796.4 63.6M860 0L825.6 83.1M860 0L860.0 90.0M833.5 0.0Q837.7 4.4 835.5 10.1M835.5 10.1Q841.1 12.6 841.3 18.7M841.3 18.7Q847.4 18.9 849.9 24.5M849.9 24.5Q855.6 22.3 860.0 26.5M807.1 0.0Q815.3 8.9 811.1 20.3M811.1 20.3Q822.1 25.3 822.6 37.4M822.6 37.4Q834.7 37.9 839.7 48.9M839.7 48.9Q851.1 44.7 860.0 52.9M780.6 0.0Q793.0 13.3 786.6 30.4M786.6 30.4Q803.2 37.9 803.8 56.2M803.8 56.2Q822.1 56.8 829.6 73.4M829.6 73.4Q846.7 67.0 860.0 79.4" fill="none" stroke="#ffffff" stroke-width="1.1" stroke-opacity="0.1"/>
+  </g>
+  <rect x=".75" y=".75" width="858.5" height="228.5" rx="16" fill="none" stroke="#e23636" stroke-opacity=".45" stroke-width="1.5"/>
+
+  <!-- Spider dropping from the top and swinging on its thread -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 -150; 0 0" keyTimes="0;1" dur="1.6s" calcMode="spline" keySplines=".2 .8 .3 1" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-7 760 0; 7 760 0; -7 760 0" dur="4.5s" begin="1.6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
+      <line x1="760" y1="-160" x2="760" y2="120" stroke="#e2e8f0" stroke-opacity=".7" stroke-width="1.2"/>
+      <g transform="translate(760 138)"><g transform="scale(1.7)">
+    <g fill="none" stroke="#e23636" stroke-width="2.2" stroke-linecap="round"><path d="M-4 -4 Q-14 -14 -20 -6"/><path d="M-5 -1 Q-17 -6 -24 2"/><path d="M-5 2 Q-17 4 -22 14"/><path d="M-4 5 Q-12 12 -15 22"/><path d="M-4 -4 Q-14 -14 -20 -6" transform="scale(-1 1)"/><path d="M-5 -1 Q-17 -6 -24 2" transform="scale(-1 1)"/><path d="M-5 2 Q-17 4 -22 14" transform="scale(-1 1)"/><path d="M-4 5 Q-12 12 -15 22" transform="scale(-1 1)"/></g>
+    <ellipse cx="0" cy="-6" rx="5" ry="5.5" fill="#e23636"/>
+    <ellipse cx="0" cy="6" rx="7" ry="10" fill="#e23636"/>
+    <path d="M0 -1 L0 15 M-5 4 L5 4 M-4 10 L4 10" stroke="#0b1220" stroke-width="1.2" opacity=".9"/>
+    <ellipse cx="-2" cy="-7" rx="1.4" ry="2" fill="#fff"/><ellipse cx="2" cy="-7" rx="1.4" ry="2" fill="#fff"/>
+  </g></g>
+    </g>
+  </g>
+
+  <g style="font-family:'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="48" y="92" font-size="13" letter-spacing="4" fill="#e23636" font-weight="700" opacity="0">SPIDER-SENSE: ON
+      <animate attributeName="opacity" values="0;1;.35;1" dur="1.2s" begin=".3s" fill="freeze"/></text>
+    <text x="48" y="132" font-size="29" font-weight="800" fill="url(#txt)" opacity="0">Un gran poder conlleva
+      <animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".8s" fill="freeze"/></text>
+    <text x="48" y="168" font-size="29" font-weight="800" fill="url(#txt)" opacity="0">una gran responsabilidad.
+      <animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.3s" fill="freeze"/></text>
+    <text x="48" y="198" font-size="15" fill="#cbd5e1" opacity="0">Tu amigable vecino desarrollador full-stack 🕸️
+      <animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2s" fill="freeze"/></text>
+  </g>
+</svg>
