@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="420" viewBox="0 0 860 420" role="img" aria-label="Terminal: Rodolfo Riveros Mitma, Ingeniero de Sistemas y Desarrollador Full-Stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0d1a24"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#22d3ee" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity=".45"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="0.4s" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="2.6s" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="6.0s" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" width="0" height="420"><animate attributeName="width" from="0" to="860" begin="8.6s" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <style>
+      .m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;font-size:15px}
+      .p{fill:#22d3ee}.h{fill:#a78bfa}.w{fill:#e2e8f0}.d{fill:#64748b}.k{fill:#f472b6}.g{fill:#4ade80}.y{fill:#facc15}
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#64748b}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="418" rx="14" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="858" height="40" rx="14" fill="#0f172a"/>
+  <rect x="1" y="28" width="858" height="13" fill="#0f172a"/>
+  <line x1="1" y1="41" x2="859" y2="41" stroke="#1e293b"/>
+  <circle cx="26" cy="21" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="21" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="21" r="6.5" fill="#28c840"/>
+  <text x="430" y="26" text-anchor="middle" class="t">rodolfo@andahuaylas: ~ — zsh</text>
+
+  <!-- 1: whoami -->
+  <g clip-path="url(#c1)">
+    <text x="28" y="78" class="m"><tspan class="p">rodolfo@andahuaylas</tspan><tspan class="d">:</tspan><tspan class="h">~</tspan><tspan class="d">$ </tspan><tspan class="w">whoami</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.3s" fill="freeze"/>
+    <text x="28" y="104" class="m"><tspan class="g">❯ </tspan><tspan class="w" font-weight="700">Rodolfo Riveros Mitma</tspan><tspan class="d"> — </tspan><tspan class="w">Ingeniero de Sistemas · Full-Stack Developer</tspan></text>
+  </g>
+
+  <!-- 2: stack -->
+  <g clip-path="url(#c2)">
+    <text x="28" y="140" class="m"><tspan class="p">rodolfo@andahuaylas</tspan><tspan class="d">:</tspan><tspan class="h">~</tspan><tspan class="d">$ </tspan><tspan class="w">cat stack.yml</tspan></text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.3s" fill="freeze"/>
+    <text x="28" y="166" class="m"><tspan class="k">backend  </tspan><tspan class="d">: </tspan><tspan class="w">Python · Django · FastAPI · PHP · Laravel · Livewire</tspan></text></g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.3s" fill="freeze"/>
+    <text x="28" y="190" class="m"><tspan class="k">frontend </tspan><tspan class="d">: </tspan><tspan class="w">React · Next.js · TypeScript · Tailwind CSS</tspan></text></g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.3s" fill="freeze"/>
+    <text x="28" y="214" class="m"><tspan class="k">mobile   </tspan><tspan class="d">: </tspan><tspan class="w">React Native · Expo (offline-first)</tspan></text></g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.3s" dur="0.3s" fill="freeze"/>
+    <text x="28" y="238" class="m"><tspan class="k">data     </tspan><tspan class="d">: </tspan><tspan class="w">MySQL · PostgreSQL · Supabase · Firebase</tspan></text></g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.3s" fill="freeze"/>
+    <text x="28" y="262" class="m"><tspan class="k">ai       </tspan><tspan class="d">: </tspan><tspan class="w">Claude API · Gemini · Machine Learning (SVM)</tspan></text></g>
+
+  <!-- 3: mision -->
+  <g clip-path="url(#c3)">
+    <text x="28" y="298" class="m"><tspan class="p">rodolfo@andahuaylas</tspan><tspan class="d">:</tspan><tspan class="h">~</tspan><tspan class="d">$ </tspan><tspan class="w">./mision.sh</tspan></text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="7.8s" dur="0.4s" fill="freeze"/>
+    <text x="28" y="324" class="m"><tspan class="y">★ </tspan><tspan class="w">Software real para la educación, la salud y el turismo del Perú.</tspan></text></g>
+
+  <!-- 4: status -->
+  <g clip-path="url(#c4)">
+    <text x="28" y="360" class="m"><tspan class="p">rodolfo@andahuaylas</tspan><tspan class="d">:</tspan><tspan class="h">~</tspan><tspan class="d">$ </tspan><tspan class="w">status --now</tspan></text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="10.4s" dur="0.4s" fill="freeze"/>
+    <text x="28" y="386" class="m"><tspan class="g">● </tspan><tspan class="w">Construyendo: Asistencia Escolar QR (Django + Expo)</tspan><tspan class="d">  </tspan>
+      <tspan class="p">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="10.8s" repeatCount="indefinite"/></tspan></text></g>
+</svg>
