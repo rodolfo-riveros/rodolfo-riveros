@@ -5,12 +5,14 @@
 
 <p align="center">
   <a href="https://portafolio-rodolfo.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Construyo+software+que+resuelve+problemas+reales;Django+%C2%B7+FastAPI+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Next.js;Apps+m%C3%B3viles+offline-first+con+React+Native+%2B+Expo;Integro+IA+(Claude+%C2%B7+Gemini)+en+productos+reales;Desde+Andahuaylas%2C+Apur%C3%ADmac+%E2%80%94+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Construyo+software+que+resuelve+problemas+reales;Django+%C2%B7+FastAPI+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Next.js;Apps+m%C3%B3viles+offline-first+con+React+Native+%2B+Expo;Integro+IA+(Claude+%C2%B7+Gemini)+en+productos+reales;Docente+en+el+IESP+La+Salle+%E2%80%94+Urubamba%2C+Cusco;Ingeniero+de+Sistemas+%E2%80%94+UNAJMA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0b1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portafolio" /></a>
+  <a href="mailto:riveros70397516@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Correo" /></a>
+  <a href="https://linkedin.com/in/rodolfo-riveros"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://twitter.com/mitmariveros"><img src="https://img.shields.io/badge/X-0b1220?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://kaggle.com/rodolforiverosmitma"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" /></a>
   <a href="https://instagram.com/rodolforiverosmitma"><img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
@@ -22,7 +24,7 @@
 
 <!-- ═══════════════════════════  TERMINAL  ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/terminal.svg" width="860" alt="rodolfo@andahuaylas:~$ whoami" />
+  <img src="./assets/terminal.svg" width="860" alt="rodolfo@urubamba:~$ whoami" />
 </p>
 
 <br/>
@@ -33,12 +35,14 @@
 <tr>
 <td width="58%" valign="top">
 
-Soy **Ingeniero de Sistemas** y **desarrollador Full-Stack** en **Andahuaylas, Apurímac (Perú)**. Hago sistemas que usan escuelas, institutos, clínicas y hoteles en su día a día, no demos que nadie abre.
+Soy **Ingeniero de Sistemas** (UNAJMA) y **desarrollador Full-Stack** en **Urubamba, Cusco (Perú)**. Soy **docente en el IESP La Salle** y antes trabajé en la **UGEL Urubamba**. Hago sistemas que usan escuelas, institutos, clínicas y hoteles en su día a día, no demos que nadie abre.
 
 - 🏫 **EdTech:** asistencia por **QR**, apps móviles para docentes que funcionan **sin internet** y exportación al **SIAGIE**.
 - 🏨 **Gestión:** un **PMS hotelero** completo y finanzas **multi-clínica** para consultorios dentales.
 - 🧠 **IA aplicada:** asistentes conversacionales con **Claude** y **Gemini**, unidos a modelos de **Machine Learning** propios.
-- 📚 **Enseñanza:** plataformas interactivas para aprender algoritmos e historia del Perú.
+- 🏛️ **Sector público:** control de asistencia docente para la **UGEL Urubamba** según la directiva MINEDU 326-2017.
+- 📚 **Enseñanza:** formo a futuros técnicos y creo plataformas para aprender algoritmos e historia del Perú.
+- 🎮 **Además:** apps con **Flutter** y videojuegos 3D en **Unity**.
 
 </td>
 <td width="42%" valign="top">
@@ -46,11 +50,14 @@ Soy **Ingeniero de Sistemas** y **desarrollador Full-Stack** en **Andahuaylas, A
 ```yaml
 nombre:     Rodolfo Riveros Mitma
 rol:        Full-Stack Developer
-base:       Andahuaylas, Apurímac 🇵🇪
+trabajo:    Docente @ IESP La Salle
+base:       Urubamba, Cusco 🇵🇪
+origen:     Andahuaylas, Apurímac
+formación:  Ing. de Sistemas — UNAJMA
 enfoque:
   - Backend con Python y PHP
   - Web con React / Next.js
-  - Mobile con Expo
+  - Mobile con Expo y Flutter
   - Integración de IA
 repos:      50+ públicos
 lema:       "Si no se usa, no está terminado"
@@ -66,17 +73,22 @@ lema:       "Si no se usa, no está terminado"
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,php,laravel,nodejs&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,php,laravel,nodejs,express&theme=dark" alt="Backend" />
 </p>
 
 <p align="center"><b>Frontend y móvil</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,bootstrap,vite,html,css&theme=dark" alt="Frontend" />
+</p>
+
+<p align="center"><b>Móvil y videojuegos</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,unity,cs,cpp&theme=dark" alt="Móvil y videojuegos" />
 </p>
 
 <p align="center"><b>Datos, nube y herramientas</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,vercel,git,github,linux,postman,figma&theme=dark" alt="Datos y herramientas" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase,vercel,git,github,linux,postman,figma&theme=dark" alt="Datos y herramientas" />
 </p>
 
 <p align="center">
@@ -88,6 +100,62 @@ lema:       "Si no se usa, no está terminado"
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
+
+<br/>
+
+## 🏛️ Sistemas en producción
+
+<p align="center"><sub>Sistemas que usan a diario instituciones educativas de Cusco</sub></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖐️ Kunan — Control de asistencia
+Asistencia con **biométricos ZKTeco** y **avisos por SMS** a los padres de familia.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ZKTeco](https://img.shields.io/badge/ZKTeco-0e7490?style=flat-square)
+![SMS](https://img.shields.io/badge/SMS_Gateway-25D366?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ SIREA — UGEL Urubamba
+Control de asistencia docente según la **directiva MINEDU 326-2017** para las instituciones educativas de la **UGEL Urubamba**.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Sistema Académico Profito
+Gestión académica completa de la **EESPP La Salle**: matrículas, notas y reportes en PDF.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📘 Portal Académico La Salle
+Calificaciones y asistencia de los estudiantes del **IESP La Salle de Urubamba**, con autenticación JWT.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[**Demo**](https://frontend-asistencia-salle.vercel.app) · [**API**](https://github.com/rodolfo-riveros/backend-asistencia-salle)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -186,14 +254,14 @@ Plataforma para aprender estructuras de datos: **simuladores visuales** con el *
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Asistencia La Salle
-Registro de asistencia para un instituto tecnológico, con una API en **FastAPI** sobre **Supabase** (PostgreSQL, Auth y RLS) y un frontend en **Next.js**.
+### 💻 SYS.IO — Mi portafolio
+Portafolio con **terminal interactiva**, estadísticas de GitHub en vivo, efecto Matrix y versión en dos idiomas. Incluye un formulario de contacto con EmailJS.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-[**Demo en vivo**](https://frontend-asistencia-salle.vercel.app) · [**API**](https://github.com/rodolfo-riveros/backend-asistencia-salle)
+[**Demo en vivo**](https://portafolio-rodolfo.vercel.app) · [**Repositorio**](https://github.com/rodolfo-riveros/portafolio-rodolfo)
 
 </td>
 </tr>
@@ -201,6 +269,56 @@ Registro de asistencia para un instituto tecnológico, con una API en **FastAPI*
 
 <p align="center">
   <a href="https://github.com/rodolfo-riveros?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_los_repositorios-0b1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Ver todos" /></a>
+</p>
+
+<br/>
+
+## 💼 Experiencia
+
+| | Cargo | Institución | Periodo |
+|:-:|---|---|---|
+| 👨‍🏫 | **Docente** | IESP La Salle — Urubamba, Cusco | Abr 2026 – Dic 2026 · Mar 2025 – Dic 2025 · Jun 2024 – Dic 2024 |
+| 🧾 | **Técnico en AIRHSP** | UGEL Urubamba | Feb 2024 – Jun 2024 |
+| 🧾 | **Apoyo en AIRHSP** | UGEL Urubamba | Ago 2023 – Dic 2023 |
+| 🛠️ | **Soporte técnico** (prácticas profesionales) | UGEL Urubamba | Abr 2023 – Jul 2023 |
+
+<br/>
+
+## 🎓 Formación y logros
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Ingeniero de Sistemas**<br/>
+Universidad Nacional José María Arguedas (UNAJMA)
+
+**🔬 Investigación**<br/>
+Colaborador en el proyecto *"Influencia de una herramienta de visualización interactiva guiada en la detección de patrones cíclicos en series temporales"* (Res. N.° 034-2023-CO-UNAJMA y N.° 0456-2022-CO-UNAJMA).
+
+**🗳️ Liderazgo**<br/>
+Vicepresidente del comité electoral de la E.P. de Ingeniería de Sistemas (2019).
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Cursos y capacitaciones**
+
+- Metodologías de Aprendizaje y Sistemas de Evaluación (2025)
+- Flutter (2025)
+- Programación de Videojuegos 3D en Unity (2025)
+- Transformación Digital en el Perú — PCM (2024)
+- Ofimática en la nube, CorelDRAW y Soporte Remoto (2024)
+- Fortalecimiento en Ingeniería de Sistemas (2023)
+- V Congreso Internacional de Ingeniería de Sistemas — U. de Lima (2022)
+- Aplicación CRUD con PHP y MySQL (2022)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://portafolio-rodolfo.vercel.app"><img src="https://img.shields.io/badge/Ver_CV_completo-0b1220?style=for-the-badge&logo=readdotcv&logoColor=22D3EE" alt="Ver CV" /></a>
 </p>
 
 <br/>
